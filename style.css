@@ -1,0 +1,27 @@
+#background {
+    background: linear-gradient(to right, rgb(222, 33, 4), rgb(35, 11, 200));
+    text-align: center;
+    font-family: "Dosis", sans-serif;
+}
+
+
+h1 {
+    text-transform: uppercase;
+}
+
+h1, h2 {
+    padding: 50px;
+}
+
+h2 {
+    font-weight: normal;
+}
+
+
+#generate {
+    padding: 10px;
+    background: steelblue;
+    border-radius: 15px;
+    font-family: "Dosis", sans-serif;
+    font-weight: bold;
+}
